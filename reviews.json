@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Amanda Smith",
+            "subject": "Introduction to Psychology",
+            "stars": 4,
+            "review": "Dr. Smith is very knowledgeable and makes the class interesting. However, her exams are a bit challenging."
+        },
+        {
+            "professor": "Dr. John Williams",
+            "subject": "Calculus I",
+            "stars": 3,
+            "review": "Professor Williams explains concepts well, but sometimes moves too quickly through the material."
+        },
+        {
+            "professor": "Dr. Emily Johnson",
+            "subject": "Organic Chemistry",
+            "stars": 5,
+            "review": "One of the best professors I've ever had! She is very clear in her explanations and always available for extra help."
+        },
+        {
+            "professor": "Dr. Michael Brown",
+            "subject": "World History",
+            "stars": 2,
+            "review": "Dr. Brown's lectures are hard to follow, and he rarely answers emails. Would not recommend."
+        },
+        {
+            "professor": "Dr. Jessica Lee",
+            "subject": "Introduction to Computer Science",
+            "stars": 5,
+            "review": "Fantastic professor! Makes programming fun and accessible for beginners."
+        },
+        {
+            "professor": "Dr. David Martinez",
+            "subject": "Physics I",
+            "stars": 4,
+            "review": "Dr. Martinez is a great lecturer, but the homework is quite tough. Still, I learned a lot."
+        },
+        {
+            "professor": "Dr. Sarah Wilson",
+            "subject": "Sociology 101",
+            "stars": 1,
+            "review": "Very boring lectures and the exams are unfair. I wouldn't take her class again."
+        },
+        {
+            "professor": "Dr. Robert Davis",
+            "subject": "Microeconomics",
+            "stars": 3,
+            "review": "Average experience. Dr. Davis knows his stuff but lacks enthusiasm in his teaching."
+        },
+        {
+            "professor": "Dr. Laura Garcia",
+            "subject": "Introduction to Literature",
+            "stars": 5,
+            "review": "She has a passion for literature that is contagious! Really enjoyed her class."
+        },
+        {
+            "professor": "Dr. James Miller",
+            "subject": "Macroeconomics",
+            "stars": 2,
+            "review": "Very dry lectures and doesn't engage the students. Not a great experience."
+        },
+        {
+            "professor": "Dr. Karen Hernandez",
+            "subject": "Biology 101",
+            "stars": 4,
+            "review": "Dr. Hernandez is knowledgeable and friendly, but her quizzes can be tricky."
+        },
+        {
+            "professor": "Dr. Kevin Clark",
+            "subject": "Introduction to Philosophy",
+            "stars": 5,
+            "review": "Amazing professor with thought-provoking lectures. Highly recommend!"
+        },
+        {
+            "professor": "Dr. Linda Lewis",
+            "subject": "Statistics for Business",
+            "stars": 3,
+            "review": "She is okay, but her lectures are quite monotonous. The textbook is essential."
+        },
+        {
+            "professor": "Dr. Daniel Walker",
+            "subject": "Human Anatomy",
+            "stars": 4,
+            "review": "Dr. Walker's class is challenging but fair. A good professor overall."
+        },
+        {
+            "professor": "Dr. Barbara Hall",
+            "subject": "Environmental Science",
+            "stars": 5,
+            "review": "Excellent teacher! Very passionate about the environment and makes the class engaging."
+        },
+        {
+            "professor": "Dr. Richard Allen",
+            "subject": "American Politics",
+            "stars": 2,
+            "review": "Dr. Allen's classes are mostly lectures with little student interaction. Not very engaging."
+        },
+        {
+            "professor": "Dr. Elizabeth Young",
+            "subject": "Creative Writing",
+            "stars": 5,
+            "review": "Wonderful professor! She encourages creativity and provides great feedback."
+        },
+        {
+            "professor": "Dr. Thomas King",
+            "subject": "Introduction to Statistics",
+            "stars": 4,
+            "review": "Solid professor. He makes statistics easier to understand, but his grading is tough."
+        },
+        {
+            "professor": "Dr. Patricia Scott",
+            "subject": "Introduction to Sociology",
+            "stars": 3,
+            "review": "She's decent, but her lectures are a bit repetitive. The class was okay."
+        },
+        {
+            "professor": "Dr. Charles Green",
+            "subject": "Advanced Calculus",
+            "stars": 1,
+            "review": "Very hard class with little help from the professor. Wouldn't recommend unless you're a math genius."
+        }
+    ]
+}

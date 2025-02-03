@@ -9,7 +9,9 @@ This project is an AI-powered Rate my Professor application powered by RAG.
 
 
 ## 🛠️ Technologies Used
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,js,nextjs,react,html,tailwind,materialui" />
+</p>
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
 - [OpenAI API](https://openai.com/api/)
